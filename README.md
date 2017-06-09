@@ -5,3 +5,6 @@
 1.有网络判断
 2.利用Glide显示GIF
 3.代码封装更加简洁
+ 
+实际效果如下：
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
