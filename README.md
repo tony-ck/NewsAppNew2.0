@@ -7,4 +7,5 @@
 3.代码封装更加简洁
  
 实际效果如下：
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/tony-ck/NewsAppNew2.0/blob/master/Screenshots/Screenshot.png)
+
